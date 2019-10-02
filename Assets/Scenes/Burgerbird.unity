@@ -1096,9 +1096,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c18487066b1844f7e92f0b8a1a965651, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  minSpeed: 3
-  maxSpeed: 0
   gravityInput: 3
+  minVelocityX: 3
+  maxVelocityY: 3
+  camZoom: 300
 --- !u!1 &1792175365
 GameObject:
   m_ObjectHideFlags: 3
